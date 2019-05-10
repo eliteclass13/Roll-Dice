@@ -19,7 +19,7 @@ to verify the odds are similar to regular physical dice.
 This cmdlet will make 2 rolls and choose the better result if advantage is chosen
 .PARAMETER Disadvantage
     A type of roll from D&D 5e that is the opposite of Advantage. Where after 2 rolls the worse result is taken
-.PARAMETER Bonus
+.PARAMETER Normal
     The default type of dice roll that only makes a single roll
 .PARAMETER Critical
     A roll type in D&D 5e usually from damage dice, where the value of the dice is doubled before the bonus is added, creating a large reuslt

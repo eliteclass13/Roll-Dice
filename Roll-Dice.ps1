@@ -13,7 +13,7 @@ to verify the odds are similar to regular physical dice.
 .PARAMETER DiceValue
 	The maximum number that can be rolled on the dice that are being "Thrown", Currently all dice thrown can only be one value
 .PARAMETER Bonus
-    The bonus from Stats, Proficiency ect... this gets added to the roll once all dice are "Thrown"
+    The bonus from Stats, Proficiency etc... this gets added to the roll once all dice are "Thrown"
 .PARAMETER Advantage
     A type of roll that comes from D&D 5e that allows 2 dice throwns and the higher result is taken.
 This cmdlet will make 2 rolls and choose the better result if advantage is chosen

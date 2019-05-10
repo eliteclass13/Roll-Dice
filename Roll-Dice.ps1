@@ -5,7 +5,7 @@ Function Roll-Dice{
 The parameters that can be altered are the number of dice rolled, the value of the dice rolled and the stat bonus added after the roll.
 
 .DESCRIPTION
-	A dice rolling function optimized for D7D 5e gameplay that has been tested with over a million "Throws" 
+	A dice rolling function optimized for D&D 5e gameplay that has been tested with over a million "Throws" 
 to verify the odds are similar to regular physical dice.
 
 .PARAMETER NumberDice
